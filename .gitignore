@@ -3,3 +3,4 @@ __pycache__/
 *.csv
 .marimo/
 __marimo__/
+astana_real_estate.csv/
